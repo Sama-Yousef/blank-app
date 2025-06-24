@@ -31,6 +31,10 @@ The generator is trained on the MNIST dataset and leverages label conditioning t
 - [PIL (Python Imaging Library)](https://pillow.readthedocs.io/)
 
 ---
+## 👩‍💻 Author
+
+- Sama Yousef  
+- 🌐 [LinkedIn](www.linkedin.com/in/sama-yousef-93001a201) <!-- لو عندك لينكدإن حطيه هنا -->
 
 ## 📦 Requirements
 
