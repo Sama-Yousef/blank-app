@@ -1,13 +1,15 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
+from tensorflow.keras.layers import LeakyReLU
+
 
 # Import your model code here
 # from model import generate_digit_images
 from tensorflow.keras.models import load_model
 import tensorflow as tf
 
-generator = load_model("CGAN_generator_model.h5")
+generator = load_model("CGAN_generator_model.h5", custom_objects={"LeakyReLU": LeakyReLU})
 
 
 
