@@ -2,7 +2,7 @@
 
 Generate realistic handwritten digit images using a Conditional GAN (CGAN) model, all through a simple and interactive web interface powered by Streamlit.
 
-![Digit Generator Demo](images/demo.png) <!-- تأكدي إن الصورة في المسار ده -->
+![Digit Generator Demo](Images/demo.png) <!-- تأكدي إن الصورة في المسار ده -->
 
 🔗 **Live App**: [Try it here](https://blank-app-95e2ta2ltgj.streamlit.app/) 
 
